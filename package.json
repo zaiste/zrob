@@ -1,0 +1,12 @@
+{
+  "name": "zrob",
+  "version": "0.0.1",
+  "description": "Simple and modern HTTP requests",
+  "main": "index.js",
+  "repository": "https://github.com/zaiste/zrob",
+  "author": "Zaiste",
+  "license": "Apache 2.0",
+  "dependencies": {
+    "follow-redirects": "^1.2.1"
+  }
+}

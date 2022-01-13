@@ -7,6 +7,6 @@
   "author": "Zaiste",
   "license": "Apache 2.0",
   "dependencies": {
-    "follow-redirects": "^1.2.1"
+    "follow-redirects": "^1.14.7"
   }
 }
